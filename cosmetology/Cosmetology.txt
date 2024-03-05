@@ -1,0 +1,17 @@
+
+Procedure : Tattoo
+Operation name : Juisy lips
+You do it fo first time? true
+price ($) : 2500
+time(min)  : 120
+____________________
+Procedure : Plastic massage 
+This procedure give correction effect - true
+This procedure give health effect - false
+price ($) : 63
+time(min)  : 60
+____________________
+Procedure : Massage
+price ($) : 126
+time(min)  : 120
+____________________
